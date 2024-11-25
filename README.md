@@ -72,12 +72,11 @@ local_model_train_pretrained.ipynb – Trains embeddings retrieved by pretrained
 bash
 Copy code
 git clone https://github.com/DarshiAshish/DIP_Group_3.git
-2. Rename the "code" folder to "DIP_proj".
 
 **How to Use**
 
 1. After cloning, find the folder under Colab Notebooks.
-2. Rename the code folder to DIP_proj.
+2. Rename the "code" folder to "DIP_proj".
 3. Run pretrained_model_1.ipynb, pretrained_model_2.ipynb, and pretrained_model_3.ipynb to retrieve embeddings. These will be stored in the same folder structure.
 4. Run local_model_train_custom.ipynb and local_model_train_pretrained.ipynb to perform federated learning.
 5. Observe the metrics for each model in the above running files.
