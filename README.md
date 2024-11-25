@@ -69,9 +69,13 @@ local_model_train_pretrained.ipynb – Trains embeddings retrieved by pretrained
 **Installation Instructions**
 
 1. Clone the repository into your Google Drive under the Colab Notebooks folder:
+   
 bash
+
 Copy code
+
 git clone https://github.com/DarshiAshish/DIP_Group_3.git
+
 
 **How to Use**
 
