@@ -72,8 +72,6 @@ local_model_train_pretrained.ipynb – Trains embeddings retrieved by pretrained
    
 bash
 
-Copy code
-
 git clone https://github.com/DarshiAshish/DIP_Group_3.git
 
 
