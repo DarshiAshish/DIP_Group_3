@@ -1,1 +1,2 @@
 To test the performance, run the file final_demo.ipynb
+Before running the code make sure that you have model and weights downloaded under DIP_proj folder in your drive under colab notebooks folder.
