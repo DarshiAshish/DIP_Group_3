@@ -33,6 +33,7 @@ CIFAR-10 Dataset: A standard dataset for image classification tasks with 60,000 
 
 
 **Demo**
+
 **To run a demo:**
 
 1. Clone the project into the Colab Notebooks folder in your Google Drive.
@@ -70,8 +71,8 @@ local_model_train_pretrained.ipynb – Trains embeddings retrieved by pretrained
 1. Clone the repository into your Google Drive under the Colab Notebooks folder:
 bash
 Copy code
-git clone https://github.com/your-username/your-project-name.git
-2. Rename the code folder to DIP_proj.
+git clone https://github.com/DarshiAshish/DIP_Group_3.git
+2. Rename the "code" folder to "DIP_proj".
 
 **How to Use**
 
